@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\bin\Debug\net6.0-windows\UAS_GANJIL_2023.exe
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\bin\Debug\net6.0-windows\UAS_GANJIL_2023.deps.json
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\bin\Debug\net6.0-windows\UAS_GANJIL_2023.runtimeconfig.json
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\bin\Debug\net6.0-windows\UAS_GANJIL_2023.dll
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\bin\Debug\net6.0-windows\UAS_GANJIL_2023.pdb
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.Form1.resources
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.AssemblyInfo.vb
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.dll
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\refint\UAS_GANJIL_2023.dll
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.pdb
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\UAS_GANJIL_2023.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023\obj\Debug\net6.0-windows\ref\UAS_GANJIL_2023.dll

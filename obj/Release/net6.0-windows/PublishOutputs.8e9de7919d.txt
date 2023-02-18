@@ -1,0 +1,5 @@
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023.exe
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023.dll
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023.deps.json
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023.runtimeconfig.json
+C:\Users\LENOVO\Desktop\UAS\UAS_GANJIL_2023.pdb
